@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=turnmeupson" alt="turnmeupson" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🌱 I’m currently learning **Solidity, Hardhat, Foundry, Openzeppelin, TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://coruscating-faun-401a0c.netlify.app/](https://coruscating-faun-401a0c.netlify.app/)
@@ -19,14 +17,10 @@
 
 - ⚡ Winner of the team engineering Olympiad for schoolchildren "Olympiad of the National Technology Initiative in the competence track Talent 20.35" Competence - "Programming in Python": **https://coruscating-faun-401a0c.netlify.app/achievements.html**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/dev.to turnmeupson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to turnmeupson" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ian miller" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ian miller" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/saint_ioann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saint_ioann" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -35,3 +29,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=turnmeupson&show_icons=true&locale=en&layout=compact" alt="turnmeupson" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=turnmeupson&show_icons=true&locale=en" alt="turnmeupson" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=turnmeupson&" alt="turnmeupson" /></p>
