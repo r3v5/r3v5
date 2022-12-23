@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ian Miller</h1>
-<h3 align="center">I am a Smart Contract Engineer and obsessed with blockchain technology</h3>
+<h3 align="center">I am a Smart Contract Engineer, Blockchain developer and blockchain enthusiast/h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=turnmeupson&label=Profile%20views&color=0e75b6&style=flat" alt="turnmeupson" /> </p>
 
