@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Solidity, Hardhat, Foundry, Openzeppelin, TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://coruscating-faun-401a0c.netlify.app/](https://coruscating-faun-401a0c.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://square-tree-2221.on.fleek.co/](https://square-tree-2221.on.fleek.co/)
 
 - ⚡ Awarded for the originality of the idea, which created an external compiler on a server with secure access on Moscow HSE Hackathon featuring FCS [https://cs.hse.ru/news/776417693.html](https://cs.hse.ru/news/776417693.html)
 
