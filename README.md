@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ian Miller</h1>
 ![Image](https://github.com/turnMeUpSon/turnMeUpSon/blob/main/1664701945002.jpeg)
-![Image](https://github.com/turnMeUpSon/domain-marketplace-nft-solidity/blob/master/Screenshot%20from%202022-12-18%2013-13-16.png)
 <h3 align="center">I am a Smart Contract Engineer, Solidity developer and Blockchain enthusiast</h3>
+
+![Image](https://github.com/turnMeUpSon/turnMeUpSon/blob/main/1664701945002.jpeg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=turnmeupson&label=Profile%20views&color=0e75b6&style=flat" alt="turnmeupson" /> </p>
 
