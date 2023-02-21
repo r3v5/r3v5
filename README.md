@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ian Miller</h1>
-<h3 align="center">I am a Smart Contract Engineer, Solidity developer and Blockchain enthusiast</h3>
+<h3 align="center">I am a Smart Contract Auditor and blockchain enthusiast</h3>
 
 ![Image](https://github.com/turnMeUpSon/turnMeUpSon/blob/main/1664701945002.jpeg)
 
