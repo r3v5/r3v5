@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ian Miller</h1>
-<h3 align="center"> I am a Python Backend Software Engineer</h3>
+<h3 align="center"> I am a Software Engineer</h3>
 
 ![Image](https://github.com/turnMeUpSon/turnMeUpSon/blob/main/1664701945002.jpeg)
 
