@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ian Miller</h1>
 <h3 align="center">Python backend developer</h3>
 
-![Image](https://github.com/turnMeUpSon/turnMeUpSon/blob/main/Ian-Miller.jpg)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=turnmeupson&label=Profile%20views&color=0e75b6&style=flat" alt="turnmeupson" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://square-tree-2221.on.fleek.co/](https://square-tree-2221.on.fleek.co/)
