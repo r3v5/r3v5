@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ian Miller</h1>
-<h3 align="center">Python backend developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=turnmeupson&label=Profile%20views&color=0e75b6&style=flat" alt="turnmeupson" /> </p>
 
