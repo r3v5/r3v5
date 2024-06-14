@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=turnmeupson&label=Profile%20views&color=0e75b6&style=flat" alt="turnmeupson" /> </p>
 
-- ⚡ Studying 2-nd year Computer Science in Technological University Dublin
+- ⚡ Studying 2nd year Computer Science in Technological University Dublin
 - ⚡ 2-nd place on ZeroDays CTF - cyber security challenge from TUD University and earned 100$ [https://www.linkedin.com/feed/update/urn:li:activity:7142546258056933376/](https://www.linkedin.com/feed/update/urn:li:activity:7142546258056933376/)
 - ⚡ Awarded for the originality of the idea, which created an external compiler on a server with secure access on Moscow HSE Hackathon featuring FCS [https://cs.hse.ru/news/776417693.html](https://cs.hse.ru/news/776417693.html)
 
