@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **milleryan2003@gmail.com**
 
-- 📄 My Linkdein [https://www.linkedin.com/in/ian-miller-620a63245/](https://www.linkedin.com/in/ian-miller-620a63245/)
+- 📄 My LinkedIn [https://www.linkedin.com/in/ian-miller-620a63245/](https://www.linkedin.com/in/ian-miller-620a63245/)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
