@@ -7,8 +7,6 @@
 - ⚡ 2-nd place on ZeroDays CTF - cyber security challenge from TUD University and earned 100$ [https://www.linkedin.com/feed/update/urn:li:activity:7142546258056933376/](https://www.linkedin.com/feed/update/urn:li:activity:7142546258056933376/)
 - ⚡ Awarded for the originality of the idea, which created an external compiler on a server with secure access on Moscow HSE Hackathon featuring FCS [https://cs.hse.ru/news/776417693.html](https://cs.hse.ru/news/776417693.html)
 
-- ⚡ Winner of the team engineering Olympiad for schoolchildren "Olympiad of the National Technology Initiative in the competence track Talent 20.35" Competence - "Programming in Python": **https://coruscating-faun-401a0c.netlify.app/achievements.html**
-
 - 📫 How to reach me **milleryan2003@gmail.com**
 
 - 📄 My LinkedIn [https://www.linkedin.com/in/ian-miller-620a63245/](https://www.linkedin.com/in/ian-miller-620a63245/)
