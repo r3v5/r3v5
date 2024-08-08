@@ -15,6 +15,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,python,django,react,c,swift,linux,ubuntu,docker,postgres,redis,nginx,aws,postman,bash" />
+    <img src="https://skillicons.dev/icons?i=python,django,react,c,swift,linux,ubuntu,docker,postgres,redis,nginx,aws,postman,bash,git" />
   </a>
 </p>
