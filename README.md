@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ian Miller</h1>
 <h2 align="center">Software Engineer Intern at Red Hat AI RAG Team</h2>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=turnmeupson&label=Profile%20views&color=0e75b6&style=flat" alt="turnmeupson" /> </p>
-
 - ⚡ Studying 2nd year TU856 Computer Science in Technological University Dublin
 - ⚡ Backend Software Engineer / Team member of #27 team during the HackIreland Dublin 2025  [https://www.linkedin.com/in/ian-miller-620a63245/details/honors/](https://www.linkedin.com/in/ian-miller-620a63245/details/honors/)
 - ⚡ GrowthHub ivenTUre Enterprise Accelerator: Successfully graduated with my Pocket Sport startup from TUD GrowthHub accelerator and gained strong project management, ownership, entrepreneurship and soft skills working in a team (05/2024) [https://www.linkedin.com/in/ian-miller-620a63245/details/education/813008252/multiple-media-viewer/?profileId=ACoAADzYxbgBHoLcMyTI4XBufgzIj0zpsotH6aw&treasuryMediaId=1719270710585](https://www.linkedin.com/in/ian-miller-620a63245/details/education/813008252/multiple-media-viewer/?profileId=ACoAADzYxbgBHoLcMyTI4XBufgzIj0zpsotH6aw&treasuryMediaId=1719270710585)
