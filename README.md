@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ian Miller</h1>
 <p align="center">
-  <a href="https://www.redhat.com/en">
+  <a href="https://www.redhat.com/en/products/ai?intcmp=RHCTG0250000442514">
     <img src="https://skillicons.dev/icons?i=redhat" />
   </a>
 </p>
