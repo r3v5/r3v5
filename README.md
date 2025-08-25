@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ian Miller</h1>
-<h2 align="center">Software Engineer Intern at Red Hat AI RAG Team</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=redhat" />
+  </a>
+</p>
+<h2 align="center">Software Engineer Intern at Red Hat AI RAG Team </h2>
 
 - ⚡ Studying 2nd year TU856 Computer Science in Technological University Dublin
 
