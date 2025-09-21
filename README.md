@@ -6,7 +6,7 @@
 </p>
 <h2 align="center">Software Engineer Intern at Red Hat AI RAG Team </h2>
 
-- ⚡ Studying 3rd year TU856 Computer Science in Technological University Dublin
+- ⚡ Currently study my TU856 3rd year Bachelor's degree in Computer Science in Technological University Dublin
 
 - ⚡ Backend Software Engineer / Team member of #27 team during the HackIreland Dublin 2025  [https://www.linkedin.com/in/ian-miller-620a63245/details/honors/](https://www.linkedin.com/in/ian-miller-620a63245/details/honors/)
   
