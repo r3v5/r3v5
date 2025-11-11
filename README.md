@@ -27,6 +27,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=golang,python,js,c,django,fastapi,react,php,linux,ubuntu,docker,kubernetes,postgres,mysql,redis,nginx,redhat,aws,azure,postman,bash,git,vim" />
+    <img src="https://skillicons.dev/icons?i=golang,python,js,c,django,fastapi,react,php,kotlin,prolog,swift,linux,ubuntu,docker,kubernetes,postgres,mysql,redis,nginx,redhat,aws,azure,postman,bash,git,vim" />
   </a>
 </p>
