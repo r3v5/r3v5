@@ -4,7 +4,7 @@
     <img src="https://skillicons.dev/icons?i=redhat" />
   </a>
 </p>
-<h2 align="center">Software Engineer Intern at Red Hat AI RAG Team </h2>
+<h2 align="center">Software Engineer Intern at Red Hat AI Agent Ops Team </h2>
 
 - ⚡ Currently study my TU856 3rd year Bachelor's degree in Computer Science in Technological University Dublin
 
