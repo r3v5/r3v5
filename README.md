@@ -20,10 +20,6 @@
   
 - ⚡ Moscow HSE Hackathon by Yandex and HSE. Awarded for the originality of the idea, which created an external compiler on a server with secure access on Moscow HSE Hackathon featuring FCS [https://cs.hse.ru/news/776417693.html](https://cs.hse.ru/news/776417693.html)
 
-- 📫 How to reach me **milleryan2003@gmail.com**
-
-- 📄 My LinkedIn [https://www.linkedin.com/in/ian-miller-620a63245/](https://www.linkedin.com/in/ian-miller-620a63245/)
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
