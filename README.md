@@ -4,22 +4,19 @@
     <img src="https://skillicons.dev/icons?i=redhat" />
   </a>
 </p>
-<h2 align="center">Software Engineer Intern at Red Hat AI</h2>
+<h2 align="center">Software Engineer Intern at Red Hat AI working on open source Agentic and AI Engineering tools for enterprises</h2>
 
-- ⚡ Currently study my TU856 3rd year Bachelor's degree in Computer Science in Technological University Dublin
+At Red Hat AI, I build: 
+⚡ Red Hat OpenShift AI - enterprise-grade open source hybrid cloud platform built on Kubernetes to deploy open weight models and autonomous agents at scale 
+⚡ Open GenAI Stack (formerly Llama Stack originated at Meta) - open source vendor-neutral OpenAI-compatible agentic API server to build AI applications 
+⚡ Kagenti Operator - IBM and Red Hat open source Kubernetes operator that automates the deployment, discovery, and security of AI agents in Kubernetes clusters  
 
-- ⚡ Backend Software Engineer / Team member of #27 team during the HackIreland Dublin 2025.
-  
-- ⚡ GrowthHub ivenTUre Enterprise Accelerator: Successfully graduated with my Pocket Sport startup from TUD GrowthHub accelerator and gained strong project management, ownership, entrepreneurship and soft skills working in a team (05/2024).
-  
-- ⚡ Huawei Hackathon Tech Arena 2024. My team took 6th place in final competition phase for optimizing profit from selling CPU and GPU servers in real time (09/2024) [https://www.linkedin.com/posts/ian-miller-620a63245_hackathon-huawei-serveroperations-activity-7246415636568973312-wlxG?utm_source=share&utm_medium=member_desktop](https://www.linkedin.com/posts/ian-miller-620a63245_hackathon-huawei-serveroperations-activity-7246415636568973312-wlxG?utm_source=share&utm_medium=member_desktop)
-  
-- ⚡ ZeroDays CTF. My team took 2nd place with total earnings 100€ and did a great job and together we got 5996 points overall solved many cryptographic, web, programming and mathematics problems (01/2024).
-  
-- ⚡ Posture hacked at Workday's Hackathon. My team was awarded a certificate in Workday Hackathon for the best GUI experience developed a desktop posture monitoring app for software engineers and IT specialists using TensorFlow and OpenCV for ML, PyQT. [https://github.com/DROP-TABLE-teams-hackathon-team/workday-hackathon-2024](https://github.com/DROP-TABLE-teams-hackathon-team/workday-hackathon-2024)
-  
-- ⚡ Moscow HSE Hackathon by Yandex and HSE. Awarded for the originality of the idea, which created an external compiler on a server with secure access on Moscow HSE Hackathon featuring FCS [https://cs.hse.ru/news/776417693.html](https://cs.hse.ru/news/776417693.html)
+Other open source contributions: 
+⚡ Garak - NVIDIA open source LLM vulnerability scanner 
+⚡ OpenShell - NVIDIA open source safe, private runtime for autonomous AI agents
 
+Also, I'm a 3rd year student of Bachelor's degree in Computer Science at Technological University Dublin. I'm interested in Agentic AI, Gen AI, backend, Kubernetes, Cloud Computing, distributed systems and system design.
+  
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
