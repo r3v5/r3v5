@@ -7,7 +7,7 @@
 <h2 align="center">Software Engineer Intern at Red Hat AI working on open source Agentic and AI Engineering tools for enterprises</h2>
 
 At Red Hat AI, I build:<br>
-⚡ Red Hat OpenShift AI - enterprise-grade open source hybrid cloud platform built on Kubernetes to deploy open weight models and autonomous agents at scale<br>
+⚡ Red Hat OpenShift AI - open source enterprise-grade hybrid cloud platform built on Kubernetes to deploy open weight models and autonomous agents at scale<br>
 ⚡ Open GenAI Stack (formerly Llama Stack originated at Meta) - open source vendor-neutral OpenAI-compatible agentic API server to build AI applications<br>
 ⚡ Kagenti Operator - IBM and Red Hat open source Kubernetes operator that automates the deployment, discovery, and security of AI agents in Kubernetes clusters<br> 
 
