@@ -4,7 +4,7 @@
     <img src="https://skillicons.dev/icons?i=redhat" />
   </a>
 </p>
-<h2 align="center">Software Engineer Intern at Red Hat AI working on open source Agentic and AI Engineering tools for enterprises</h2>
+<h2 align="center">I work on open source AI infrastructure for enterprises</h2>
 
 At Red Hat AI, I build:<br>
 ⚡ Red Hat OpenShift AI - open source enterprise-grade hybrid cloud platform built on Kubernetes to deploy open weight models and autonomous agents at scale<br>
