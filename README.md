@@ -1,19 +1,21 @@
-<h1 align="center">Hi 👋, I'm Ian Miller</h1>
+<h1 align="center">Hi, I'm Ian Miller 👋</h1>
 <p align="center">
   <a href="https://www.redhat.com/en/products/ai?intcmp=RHCTG0250000442514">
     <img src="https://skillicons.dev/icons?i=redhat" />
   </a>
 </p>
-<h2 align="center">I work on open source AI infrastructure for enterprises</h2>
 
-At Red Hat AI, I build:<br>
-⚡ Red Hat OpenShift AI - open source enterprise-grade hybrid cloud platform built on Kubernetes to deploy open weight models and autonomous agents at scale<br>
-⚡ OpenShell - NVIDIA open source safe, private runtime for autonomous AI agents<br>
-⚡ Open GenAI Stack (formerly Llama Stack originated at Meta) - open source vendor-neutral OpenAI-compatible agentic API server to build AI applications<br>
-⚡ Kagenti Operator - IBM and Red Hat open source Kubernetes operator that automates the deployment, discovery, and security of AI agents in Kubernetes clusters<br> 
+📍 **Dublin**
+
+Now at **Red Hat AI**, working on open source AI infrastructure for enterprises.
+
+- **[Red Hat OpenShift AI](https://www.redhat.com/en/products/ai/openshift-ai?sc_cid=RHCTE0250000438067&gclsrc=aw.ds&gad_source=1&gad_campaignid=22183537327&gbraid=0AAAAADsbVMROhvDlFMCzrINWghs3lSgi5&gclid=EAIaIQobChMIiZmVsp7IlQMVa5NQBh3PrTJLEAAYASAAEgKzi_D_BwE)** - open source enterprise-grade hybrid cloud platform built on Kubernetes to deploy open weight models and autonomous agents at scale<br>
+- **[OpenShell](https://docs.nvidia.com/openshell/latest/home)** (7.6k+ stars) - NVIDIA open source safe, private runtime for autonomous AI agents<br>
+- **[Open GenAI Stack (formerly Llama Stack originated at Meta)](https://ogx-ai.github.io/)** (8.4k+ stars) - open source vendor-neutral OpenAI-compatible agentic API server to build AI applications<br>
+- **[Kagenti Operator](https://github.com/kagenti/kagenti-operator)** - IBM and Red Hat open source Kubernetes operator that automates the deployment, discovery, and security of AI agents in Kubernetes clusters<br> 
 
 Other open source contributions:<br>
-⚡ Garak - NVIDIA open source LLM vulnerability scanner<br>
+- **[Garak](https://garak.ai/)** (8.4k+ stars) - NVIDIA open source LLM vulnerability scanner<br>
 
 Also, I'm a 3rd year student of Bachelor's degree in Computer Science at Technological University Dublin. I'm interested in Agentic AI, Gen AI, backend, Kubernetes, Cloud Computing, distributed systems and system design.
   
