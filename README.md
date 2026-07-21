@@ -15,6 +15,7 @@ Now at **Red Hat AI**, working on open source AI infrastructure for enterprises.
 - **[Rossoctl Operator](https://github.com/rossoctl/operator)** - IBM and Red Hat open source Kubernetes operator that automates the deployment, discovery, and security of AI agents in Kubernetes clusters<br> 
 
 Other open source contributions:<br>
+- **[Rust](https://github.com/rust-lang/rust)** (115k+ stars) - memory safe compiled programming language<br>
 - **[Garak](https://github.com/NVIDIA/garak/)** (8.4k+ stars) - NVIDIA open source LLM vulnerability scanner<br>
 
 Also, I'm a 3rd year student of Bachelor's degree in Computer Science at Technological University Dublin. I'm interested in Agentic AI, Gen AI, backend, Kubernetes, Cloud Computing, distributed systems and system design.
