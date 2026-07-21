@@ -12,7 +12,7 @@ Now at **Red Hat AI**, working on open source AI infrastructure for enterprises.
 - **[Red Hat OpenShift AI](https://www.redhat.com/en/products/ai/openshift-ai?sc_cid=RHCTE0250000438067&gclsrc=aw.ds&gad_source=1&gad_campaignid=22183537327&gbraid=0AAAAADsbVMROhvDlFMCzrINWghs3lSgi5&gclid=EAIaIQobChMIiZmVsp7IlQMVa5NQBh3PrTJLEAAYASAAEgKzi_D_BwE)** - open source enterprise-grade hybrid cloud platform built on Kubernetes to deploy open weight models and autonomous agents at scale<br>
 - **[OpenShell](https://docs.nvidia.com/openshell/latest/home)** (7.6k+ stars) - NVIDIA open source safe, private runtime for autonomous AI agents<br>
 - **[Open GenAI Stack (formerly Llama Stack originated at Meta)](https://ogx-ai.github.io/)** (8.4k+ stars) - open source vendor-neutral OpenAI-compatible agentic API server to build AI applications<br>
-- **[Kagenti Operator](https://github.com/kagenti/kagenti-operator)** - IBM and Red Hat open source Kubernetes operator that automates the deployment, discovery, and security of AI agents in Kubernetes clusters<br> 
+- **[Rossoctl Operator](https://github.com/rossoctl/operator)** - IBM and Red Hat open source Kubernetes operator that automates the deployment, discovery, and security of AI agents in Kubernetes clusters<br> 
 
 Other open source contributions:<br>
 - **[Garak](https://github.com/NVIDIA/garak/)** (8.4k+ stars) - NVIDIA open source LLM vulnerability scanner<br>
