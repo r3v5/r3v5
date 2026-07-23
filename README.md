@@ -18,7 +18,7 @@ Other open source contributions:<br>
 - **[Rust](https://github.com/rust-lang/rust)** (115k+ stars) - memory safe statically compiled programming language<br>
 - **[Garak](https://github.com/NVIDIA/garak/)** (8.4k+ stars) - NVIDIA open source LLM vulnerability scanner<br>
 
-Also, I'm a 3rd year student of Bachelor's degree in Computer Science at Technological University Dublin. I'm interested in Agentic AI, Gen AI, backend, Kubernetes, Cloud Computing, distributed systems and system design.
+Also, I'm a 4th year student of Bachelor's degree in Computer Science at Technological University Dublin. I'm interested in Agentic AI, Gen AI, backend, Kubernetes, Cloud Computing, distributed systems and system design.
   
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
