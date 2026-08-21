@@ -23,6 +23,6 @@ Also, I'm a 4th year student of Bachelor's degree in Computer Science at Technol
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,rust,golang,c,linux,kubernetes,redhat,openshift,aws,azure,gcp,vim,neovim" />
+    <img src="https://skillicons.dev/icons?i=python,rust,golang,c,linux,kubernetes,redhat,openshift,aws,azure,gcp" />
   </a>
 </p>
