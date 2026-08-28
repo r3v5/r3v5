@@ -13,7 +13,7 @@ Projects I worked on:<br>
 - **[Rossoctl Operator](https://github.com/rossoctl/operator)** - IBM and Red Hat open source Kubernetes operator that automates the deployment, discovery, and security of AI agents in Kubernetes clusters<br> 
 
 Other open source contributions:<br>
-- **[Rust](https://github.com/rust-lang/rust)** (115k+ stars) - memory safe statically compiled programming language<br>
+- **[Rust](https://github.com/rust-lang/rust)** (116k+ stars) - memory safe statically compiled programming language<br>
 - **[Garak](https://github.com/NVIDIA/garak/)** (9.1k+ stars) - NVIDIA open source LLM vulnerability scanner<br>
 
 Also, I'm a 4th year student of Bachelor's degree in Computer Science at Technological University Dublin. I'm interested in AI, Cloud Computing, distributed systems and system design.
