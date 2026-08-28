@@ -14,7 +14,7 @@ Projects I worked on:<br>
 
 Other open source contributions:<br>
 - **[Rust](https://github.com/rust-lang/rust)** (115k+ stars) - memory safe statically compiled programming language<br>
-- **[Garak](https://github.com/NVIDIA/garak/)** (8.4k+ stars) - NVIDIA open source LLM vulnerability scanner<br>
+- **[Garak](https://github.com/NVIDIA/garak/)** (9.1k+ stars) - NVIDIA open source LLM vulnerability scanner<br>
 
 Also, I'm a 4th year student of Bachelor's degree in Computer Science at Technological University Dublin. I'm interested in AI, Cloud Computing, distributed systems and system design.
   
