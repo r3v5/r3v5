@@ -4,7 +4,7 @@
 
 📍 **Dublin**
 
-Software Engineer with 1 year of professional experience building open source enterprise AI infrastructure in collaboration with IBM Research, NVIDIA and Meta, including two internships at Red Hat AI.
+Software Engineer with 1 year of professional experience building open source enterprise AI infrastructure in collaboration with IBM Research, NVIDIA and Meta, including two internships at Red Hat AI and contributions to the Rust compiler.
 
 Projects I worked on:<br>
 - **[Red Hat OpenShift AI](https://www.redhat.com/en/products/ai/openshift-ai?sc_cid=RHCTE0250000438067&gclsrc=aw.ds&gad_source=1&gad_campaignid=22183537327&gbraid=0AAAAADsbVMROhvDlFMCzrINWghs3lSgi5&gclid=EAIaIQobChMIiZmVsp7IlQMVa5NQBh3PrTJLEAAYASAAEgKzi_D_BwE)** - open source enterprise-grade hybrid cloud platform built on Kubernetes to deploy open weight models and autonomous agents at scale<br>
