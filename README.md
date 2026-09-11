@@ -8,13 +8,14 @@ Software Engineer with 1 year of professional experience building open source en
 
 Projects I worked on:<br>
 - **[Red Hat OpenShift AI](https://www.redhat.com/en/products/ai/openshift-ai?sc_cid=RHCTE0250000438067&gclsrc=aw.ds&gad_source=1&gad_campaignid=22183537327&gbraid=0AAAAADsbVMROhvDlFMCzrINWghs3lSgi5&gclid=EAIaIQobChMIiZmVsp7IlQMVa5NQBh3PrTJLEAAYASAAEgKzi_D_BwE)** - open source enterprise-grade hybrid cloud platform built on Kubernetes to deploy open weight models and autonomous agents at scale<br>
-- **[OpenShell](https://docs.nvidia.com/openshell/latest/home)** (8.3k+ stars) - NVIDIA open source safe, private runtime for autonomous AI agents<br>
+- **[OpenShell](https://docs.nvidia.com/openshell/latest/home)** (8.6k+ stars) - NVIDIA open source safe, private runtime for autonomous AI agents<br>
 - **[Open GenAI Stack (formerly Llama Stack originated at Meta)](https://ogx-ai.github.io/)** (8.4k+ stars) - open source vendor-neutral OpenAI-compatible agentic API server to build AI applications<br>
 - **[Rossoctl Operator](https://github.com/rossoctl/operator)** - IBM and Red Hat open source Kubernetes operator that automates the deployment, discovery, and security of AI agents in Kubernetes clusters<br> 
 
 Other open source contributions:<br>
-- **[Rust](https://github.com/rust-lang/rust)** (116k+ stars) - memory safe statically compiled programming language<br>
-- **[Garak](https://github.com/NVIDIA/garak/)** (9.1k+ stars) - NVIDIA open source LLM vulnerability scanner<br>
+- **[Rust](https://github.com/rust-lang/rust)** (118k+ stars) - memory safe statically compiled programming language<br>
+- **[Garak](https://github.com/NVIDIA/garak/)** (9.2k+ stars) - NVIDIA open source LLM vulnerability scanner<br>
+- **[Docling](https://github.com/docling-project/docling)** (66.3k+ stars) - IBM open source library for getting documents ready for GenAI<br>
 
 Also, I'm a 4th year student of Bachelor's degree in Computer Science at Technological University Dublin. I'm interested in AI, Cloud Computing, distributed systems and system design.
   
