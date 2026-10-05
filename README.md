@@ -17,6 +17,6 @@ Projects I worked on:<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,rust,golang,c,linux,kubernetes,redhat,openshift,aws,azure,gcp,postgresql,sqlite" />
+    <img src="https://skillicons.dev/icons?i=python,rust,golang,c,linux,kubernetes,redhat,openshift,aws,azure,gcp,postgresql,sqlite,mongodb" />
   </a>
 </p>
