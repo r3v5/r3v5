@@ -12,7 +12,6 @@ Projects I worked on:<br>
 - **[Open GenAI Stack (formerly Llama Stack originated at Meta)](https://ogx-ai.github.io/)** (8.4k+ stars) - open source vendor-neutral OpenAI-compatible agentic API server to build AI applications<br>
 - **[Rossoctl Operator](https://github.com/rossoctl/operator)** - IBM and Red Hat open source Kubernetes operator that automates the deployment, discovery, and security of AI agents in Kubernetes clusters<br>
 - **[Garak](https://github.com/NVIDIA/garak/)** (9.4k+ stars) - NVIDIA open source LLM vulnerability scanner<br>
-- **[Red Hat OpenShift AI](https://www.redhat.com/en/products/ai/openshift-ai?sc_cid=RHCTE0250000438067&gclsrc=aw.ds&gad_source=1&gad_campaignid=22183537327&gbraid=0AAAAADsbVMROhvDlFMCzrINWghs3lSgi5&gclid=EAIaIQobChMIiZmVsp7IlQMVa5NQBh3PrTJLEAAYASAAEgKzi_D_BwE)** - open source enterprise-grade hybrid cloud platform built on Kubernetes to deploy open weight models and autonomous agents at scale<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
