@@ -4,7 +4,7 @@
 
 📍 **Dublin**
 
-Software Engineer with 1 year of professional experience building open source enterprise AI infrastructure in collaboration with IBM Research, NVIDIA and Meta during 2 internships at Red Hat AI and contributions to the Rust compiler.
+Software Engineer with 1 year of professional experience in building open source enterprise AI infrastructure in collaboration with NVIDIA, Meta and IBM Research during 2 internships at Red Hat AI and contributions to the Rust compiler.
 
 Projects I worked on:<br>
 - **[OpenShell](https://docs.nvidia.com/openshell/latest/home)** (14.7k+ stars) - NVIDIA open source safe, private runtime for autonomous AI agents<br>
